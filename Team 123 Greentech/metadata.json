@@ -1,0 +1,6 @@
+{
+  "name": "GreenLedger",
+  "description": "Urban tree plantation optimization system for Pune Municipal Corporation, features satellite NDVI simulation, graph-based connectivity optimization, and real-time monitoring.",
+  "requestFramePermissions": [],
+  "majorCapabilities": []
+}
