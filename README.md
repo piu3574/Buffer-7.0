@@ -65,3 +65,7 @@ GET /api/events — SSE stream for live updates
 Notes
 Satellite data is currently simulated (NDVI refresh + variation) to demonstrate the workflow end-to-end.
 The city model is based on a ward graph, enabling corridor-aware planning and impact propagation.
+
+
+🔗 Link to GreenLedger Demo:
+https://drive.google.com/file/d/1jwM0caK2I57kTFN-bEn-76uoRKu8M8sb/view?usp=sharing
